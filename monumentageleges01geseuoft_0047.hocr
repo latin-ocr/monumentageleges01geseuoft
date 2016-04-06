@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentageleges01geseuoft/monumentageleges01geseuoft_0047.png"; bbox 0 0 2247 3115; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 7 1231 1819 1543">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 1231 1819 1543">
+     <span class='ocr_line' id='line_1_1' title="bbox 7 1231 1819 1327; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 7 1232 480 1327; x_wconf 72' lang='lat' dir='ltr'><strong>LEGUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 531 1231 904 1326; x_wconf 70' lang='lat' dir='ltr'><strong>CODI(</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 917 1232 1048 1326; x_wconf 63' lang='lat' dir='ltr'>*IS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1104 1233 1184 1325; x_wconf 84' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1204 1233 1487 1326; x_wconf 71' lang='lat' dir='ltr'>UBI(</span> <span class='ocrx_word' id='word_1_6' title='bbox 1503 1233 1767 1326; x_wconf 57' lang='lat' dir='ltr'>*IAN</span> <span class='ocrx_word' id='word_1_7' title='bbox 1772 1234 1819 1325; x_wconf 91' lang='lat' dir='ltr'>I</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 473 1448 1349 1543; baseline -0.001 0"><span class='ocrx_word' id='word_1_8' title='bbox 473 1450 642 1543; x_wconf 80' lang='lat' dir='ltr'>FR</span> <span class='ocrx_word' id='word_1_9' title='bbox 654 1451 749 1542; x_wconf 69' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 757 1448 957 1542; x_wconf 71' lang='lat' dir='ltr'>GM</span> <span class='ocrx_word' id='word_1_11' title='bbox 972 1450 1140 1542; x_wconf 77' lang='lat' dir='ltr'>EN</span> <span class='ocrx_word' id='word_1_12' title='bbox 1148 1450 1349 1542; x_wconf 70' lang='lat' dir='ltr'>TA.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
